@@ -1,5 +1,5 @@
 {
-  "name": "ryanpotter/silverstripe-color-field",
+  "name": "violet88/silverstripe-color-field",
   "description": "Silverstripe Color Field",
   "type": "silverstripe-vendormodule",
   "keywords": [
@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "silverstripe/framework": "^4.0"
+    "silverstripe/framework": "^4.0 || ^5.0"
   },
   "support": {
     "issues": "https://github.com/Rhym/silverstripe-color-field/issues"
